@@ -1,0 +1,61 @@
+# 国外媒体列表
+
+# Niconico
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,socdm.com
+
+# TikTok
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,tiktokv
+PROCESS-NAME,com.zhiliaoapp.musically
+
+# Spotify
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify.com
+IP-CIDR,35.186.224.47/32,no-resolve
+PROCESS-NAME,com.spotify.music
+
+# Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
