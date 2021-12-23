@@ -1,0 +1,8 @@
+# 本清单仅包含部分屏蔽大陆IP访问的站点
+# 如果发现有新的，麻烦顺便报告给我以更新此清单
+# 可自行添加
+
+# 2Comic漫画网
+DOMAIN-SUFFIX,twocomic.com
+DOMAIN-SUFFIX,info8.link
+DOMAIN-SUFFIX,8comic.com
