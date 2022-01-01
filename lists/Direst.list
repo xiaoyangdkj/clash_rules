@@ -1,0 +1,17 @@
+# 本清单仅包含部分只支持大陆IP访问的站点
+# 如果发现有新的，麻烦顺便报告给我以更新此清单
+# 可自行添加
+
+# 真不卡影院
+DOMAIN-SUFFIX,zhenbuka3.com
+
+# Sukka的IP查询
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,ipip.net
+
+# 卷毛鼠emby公益服
+DOMAIN-KEYWORD,jmsooo
+
+# zippyshare(似乎没有加入的必要)
+DOMAIN-SUFFIX,zippyshare.com
