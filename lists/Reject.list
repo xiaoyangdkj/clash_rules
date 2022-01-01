@@ -1,0 +1,12 @@
+# 本清单包含部分不宜访问的网址
+# 如果发现有新的，麻烦顺便报告给我以更新此清单
+# 可自行添加
+
+# 阳光守护
+DOMAIN-SUFFIX,eversunshine.cn
+DOMAIN-KEYWORD,eversunshine
+
+# 麦田守护
+DOMAIN-SUFFIX,famiguard.cn
+DOMAIN,famiguardapi.imyfone.cn
+DOMAIN-KEYWORD,famiguard
