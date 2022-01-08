@@ -11,11 +11,11 @@ dns:
   enable: true
   listen: 0.0.0.0:53
   default-nameserver:
-    - 114.114.114.114
+    - 223.5.5.5
     - 8.8.8.8
   enhanced-mode: redir-host # or fake-ip
   nameserver:
-    - 114.114.114.114 # default value
+    - 223.5.5.5 # default value
     - 8.8.8.8 # default value
     - tls://dns.rubyfish.cn:853 # DNS over TLS
     - https://1.1.1.1/dns-query # DNS over HTTPS
