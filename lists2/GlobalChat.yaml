@@ -1,6 +1,3 @@
-# 国外社交平台
-
-# Twitter
 payload:
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,periscope.tv
@@ -29,8 +26,6 @@ payload:
   - IP-CIDR,202.160.128.0/22,no-resolve
   - IP-CIDR,209.237.192.0/19,no-resolve
   - IP-CIDR,69.195.160.0/19,no-resolve
-
-# Facebook&Instagram&WhatsApp
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com
   - DOMAIN-SUFFIX,accountkit.com
