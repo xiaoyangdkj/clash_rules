@@ -1,6 +1,7 @@
 # 国外社交平台
 
 # Twitter
+payload:
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
