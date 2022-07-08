@@ -1,8 +1,15 @@
-# 本清单仅包含部分屏蔽大陆IP访问的站点
-# 如果发现有新的，麻烦顺便报告给我以更新此清单
-# 可自行添加
+# 夹带私货的地方
 
 # 2Comic漫画网
 DOMAIN-SUFFIX,twocomic.com
 DOMAIN-SUFFIX,info8.link
 DOMAIN-SUFFIX,8comic.com
+
+# HoYoverse(Game&website)
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
